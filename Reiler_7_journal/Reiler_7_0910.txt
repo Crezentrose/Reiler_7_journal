@@ -1,0 +1,1 @@
+on the 9th we made a directory that we can use to make our journals from the konsole by making a read me file and we used commands to create a directroy link to github to save our github files to make as our journals.
