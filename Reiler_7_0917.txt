@@ -1,0 +1,7 @@
+Different java types are what follows:
+Char- character or "a" ";"
+Bollean- true or false method
+string- a collection of characters "a e gh jk hi bro lol"
+int- integer, whole number, 4,2,3,5,6,7,1,8,9 etc.
+chort,long,double- decimal numbers as such 2.7, 1.4, 8.9
+
