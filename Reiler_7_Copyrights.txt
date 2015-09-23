@@ -1,0 +1,18 @@
+Copyright: Legal ownership of print art, doc, music,etc.
+Copyleft:Using of legaly owned products with certain permisions from the owner.
+Fair use: is that you only copy things in the name of education.
+Free Speech:The right to to freely speak publicly(UNDER CERTAIN CIRCUMSTANCES).
+Free Software:Software you can do anything to.
+Freeware:software that is free to the public.
+Public Domian:is the belonging of the public as a whole.
+File-Sharing:Legal sharing of files using torrent or allowed links.
+Piracy:taking someone elses work without permision and illegaly using it.
+Plagerism:Coping someone elses work writings, ideas, etc. 
+Infringement:Violating of a law or a right (stupidly).
+Proprietary:relationship of an owner or ownership.
+Open Source:Sowftware that can be freely used and modified.
+GNU GPL license:another word for GNU general public license.
+MIT Licence:License of MIT
+Apache License:Is free software made by Apache software foundation.
+EULA:is a contract between buyers and sellers.
+Creative Commons: is an organization devoted to legall using rights.
