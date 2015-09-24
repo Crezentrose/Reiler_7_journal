@@ -1,0 +1,6 @@
+Steven Ballmers saw GPL as a virus because he felt as if it caused problems for users.
+open source code controls programs and usually gives information for the program to run and for users to view.
+proprietary software is owned software by a company and its source code is kept secret
+away from users. 
+GPL is forced open source code.
+MIT is a free license software that has limited source code.
