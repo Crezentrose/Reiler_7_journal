@@ -1,0 +1,15 @@
+Paid License:Amount of money paid by a person to a government agency for privileges
+preforming certain services.
+Shareware:Shareable software that can be used however. 
+Trailware: software that has a time limit (SUCH AS DEMOS FOR GAMES
+ON STEAM)
+Ad-ware:ads that show up during ativities online promoting certain products.
+Crippleware:Is software that can cripple your computer making it not being able to work.
+Freemium:pricing strategy for products online.
+FreeWare(vs Free-OpenSource):computer software that is available for free 
+for use at no monetary cost.
+Richard Stallman:founder of GNU project and maintains the One True Emacs.
+Lawrence Lessig:Lawyer, political activist, and a candidate for President of the United
+States in the 2016 election.
+Eben Moglen:founder of Director-Counsel and Chairman of Software Freedom Law Center
+Professional programer.
