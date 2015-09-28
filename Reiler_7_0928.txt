@@ -1,0 +1,4 @@
+You can count in java by making a for loop and  assigning the vairables for
+counting 1 to 100 or what ever you want it to be.
+You can use certain symbold and vairables assigned on tracking those things.
+By assinging a variable to it . 
