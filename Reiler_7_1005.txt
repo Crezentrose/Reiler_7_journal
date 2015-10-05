@@ -1,0 +1,3 @@
+Code comments lines of code that explain codes format and what certain lines of code do.
+Explaining certain lines of code for your peers to understand.
+
