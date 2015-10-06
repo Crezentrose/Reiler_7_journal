@@ -1,0 +1,4 @@
+classes are things you can accociate things with.
+Instances are programs that run certain codes of command.
+class methods are main methods for returning values to.
+methods are true and false statments. 
